@@ -21,4 +21,5 @@
 
 ![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LLErkK&show_icons=true)
 
+https://github-readme-stats-rouge-one.vercel.app/api?username=LLErkK
 
