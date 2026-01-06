@@ -1,10 +1,10 @@
 <h3 align="center">A passionate backend developer</h3>
 
-- 🌱 I’m currently learning **Micro Service**
+- 🌱 I’m currently learning **MicroService**
 
 - 📫 How to reach me **qazorahmad@gmail.com**
 
-- ⚡ Fun fact **I am a MotoGP and Road Cycling Enthusiast**
+- 🏍️💨 🚴**I am a MotoGP and Road Cycling Enthusiast**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
